@@ -1,4 +1,11 @@
-  1. [Complete Google Colab GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+ 
+ # Additional Learning Material
+
+You can use the following materials for additional reference. I'll be including cheatsheets, tips, and coupons for GPU's. 
+ 
+ 
+ 
+ 1. [Complete Google Colab GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
   2. [$1200 IBM Cloud Credit](https://cognitiveclass.ai/ibm-cloud-promotion/) 
 
@@ -14,7 +21,7 @@
   
   8. [Ultimate Guide to Choosing the right GPU Vendor](https://github.com/binga/cloud-gpus)
   
-  9. [Free tech resources for students,dev advocates for use in computer science courses, workshops, and hackathons (https://github.com/Microsoft/computerscience)
+
   
   
   
